@@ -1,0 +1,11 @@
+#page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+#page p {
+    width: 400px;
+}
